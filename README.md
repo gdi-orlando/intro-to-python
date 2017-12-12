@@ -1,6 +1,7 @@
 # Intro to Python
 
-This is the Girl Develop It Intro to Python course. Material is loosely based on Think Python by Allen B. Downey and written by Caleb Smith. 
+This is the Girl Develop It Intro to Python course. Material is loosely based on Think Python by Allen B. Downey and written by Caleb Smith, cloned from the NYC Girl 
+Develop It chapter <3
 
 The course is meant to be taught in 4 two-hour sections. Each of the slides and practice files are customizable according to the needs of a given class or audience.
 
